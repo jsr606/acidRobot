@@ -1,0 +1,10 @@
+[
+  {
+    "name": "gridController",
+    "amountOfKeys": 80,
+    "zHover": 15,
+    "zPush": -1,
+    "speed": 80,
+    "id": 0
+  }
+]
